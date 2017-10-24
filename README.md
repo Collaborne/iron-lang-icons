@@ -1,4 +1,5 @@
-# flag-icons
+# lang-icons [![Build Status](https://travis-ci.org/Collaborne/iron-lang-icons.svg?branch=master)](https://travis-ci.org/Collaborne/iron-lang-icons)
+
 Polymer icon set for languages
 
 To use this element:
